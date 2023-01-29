@@ -4,6 +4,7 @@
 		<pages>
 			<Page title="{i18n>title}">
 				<content>
+					<!--add entity binding in rows for common list binding-->
 					<table:Table rows="{/StudentData}">
 						<table:columns>
 							
