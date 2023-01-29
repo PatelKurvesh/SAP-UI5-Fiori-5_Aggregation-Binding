@@ -1,1 +1,2 @@
 # SAP-UI5-Fiori-5_Aggregation-Binding
+<b>Aggregation binding:-</b> Transfers the data from a model to a list-like control such as a table or list. The data is displayed in a repeating structure for each item in the model. It's a one-way binding from model to control.
