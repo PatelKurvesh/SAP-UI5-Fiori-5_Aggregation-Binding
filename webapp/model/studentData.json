@@ -28,6 +28,14 @@
 				"sCGPA":8.99,
 				"sStatus":true,
 				"sPlacement":"true"
+			},
+			{
+				"ENo":20012012021,
+				"sName":"Salman",
+				"sBranch":"CEIT-CE",
+				"sCGPA":7.99,
+				"sStatus":true,
+				"sPlacement":"true"
 			},{
 				"ENo":20012012004,
 				"sName":"Siddhi",
